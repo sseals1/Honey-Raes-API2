@@ -71,6 +71,12 @@
       "address": "100 ok dude",
       "email": "e@e.com",
       "id": 12
+    },
+    {
+      "name": "Elon Musk",
+      "address": "3500 Deer Creek Road Palo Alto, CA 94304",
+      "email": "elon@musk.com",
+      "id": 13
     }
   ],
   "employees": [
@@ -85,45 +91,29 @@
       "specialty": "Printers"
     },
     {
-      "name": "",
-      "specialty": "Mending broken hearts.",
-      "id": 3
-    },
-    {
       "name": "Big Mac",
       "specialty": "Plays well with fries.",
-      "id": 4
+      "id": 3
     },
     {
       "name": "suth maxwell",
       "specialty": "Mac Os",
+      "id": 4
+    },
+    {
+      "name": "Elon Musk",
+      "specialty": "Rocket man",
       "id": 5
     }
   ],
   "serviceTickets": [
     {
-      "id": 1,
-      "customerId": 4,
-      "employeeId": 1,
-      "description": "iPhone case cracked. Please replace.",
-      "emergency": false,
-      "dateCompleted": "2021-05-26"
-    },
-    {
-      "id": 2,
-      "customerId": 7,
-      "employeeId": 2,
-      "description": "Cannot connect to any wifi.",
+      "description": "deleting random tikets",
       "emergency": true,
-      "dateCompleted": ""
-    },
-    {
-      "description": "Macbook screen flickers.",
-      "emergency": true,
-      "customerId": 11,
+      "customerId": 5,
       "employeeId": 1,
       "dateCompleted": "",
-      "id": 3
+      "id": 1
     }
   ]
 }
